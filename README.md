@@ -74,4 +74,4 @@ $ grep 'ADRIANA' ac-input.txt -c > "ac-output-adriana.txt"
 
 ### Screenshot:
 
-![]()
+![](https://github.com/annie0sc/ac-wrangle/blob/main/Screenshot%20(104).png)
